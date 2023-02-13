@@ -1,6 +1,16 @@
 # Introduktion till Blender
 
+## Användargränssnitt
 
+![UI](https://user-images.githubusercontent.com/70745846/218486717-b53892bb-a054-47e8-9513-40be62c6c8eb.png)
+1. 3D-vyn
+2. *Outliner* (En lista över alla objekt i scenen)
+3. *Properties* (Ett ställe för alla parametrar, både för det markerade objektet och hela scenen)
+4. *Timeline* (En tidslinje som används vid animering och simulering)
+
+![3D-Cursor](https://user-images.githubusercontent.com/70745846/218488133-a76f4453-75b3-43b5-914f-e1f1b508f4e4.png)
+
+3D-Cursor - En markör som används för många olika saker; bland annat centreras nya objekt på den och, och den är användbar vid *Snapping* (d.v.s. när man "klickar" fast något vid en viss punkt)
 
 ## Input
 ~~Eller Knappar/Kontroller/Tangenter (Jag vet inte vad jag ska kalla det)~~
