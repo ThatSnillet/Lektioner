@@ -247,3 +247,11 @@ Då är karaktären riggad till skelettet.
 # Animera
 
 Ge karaktären en gå-animation.
+
+# Villager
+
+Testa att göra en Villager också, det är en lite mer komplicerad modell.
+
+Textur:
+![villager](https://user-images.githubusercontent.com/70745846/218732438-4f568f46-b0a1-4bbf-be96-0dca3be998a8.png)
+
